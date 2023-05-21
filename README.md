@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android app development in Kotlin,AWS**
 <hr>
-<img align="right" alt="Coding" width="400"  src="giphy.webp" >
+<img align="right" alt="Coding" width="380"  src="giphy.webp" >
 <hr>
 <h3 align="left">Connect with me:</h3>
 <hr>
