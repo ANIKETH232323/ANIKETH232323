@@ -18,14 +18,16 @@
 
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketh232323&show_icons=true&locale=en" alt="aniketh232323" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniketh232323&show_icons=true&locale=en" alt="aniketh232323" /></p>
 <br/>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketh232323&" alt="aniketh232323" /></p><br/>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketh232323&show_icons=true&locale=en&layout=compact" alt="aniketh232323" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketh232323&show_icons=true&locale=en&layout=compact" alt="aniketh232323" /></p> -->
+![](https://github-readme-stats.vercel.app/api?username=ANIKETH232323&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><hr>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ANIKETH232323&theme=dark&hide_border=false)<br/><hr>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANIKETH232323&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
 <hr>
 
 ### ✍️ Dev Quote
