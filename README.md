@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ANIKETH</h1>
 <h3 align="center">A beginner frontend and backend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketh232323&label=Profile%20views&color=0e75b6&style=flat" alt="aniketh232323" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aniketh232001" target="blank"><img src="https://img.shields.io/twitter/follow/aniketh232001?logo=twitter&style=for-the-badge" alt="aniketh232001" /></a> </p>
@@ -8,7 +7,7 @@
 - 🌱 I’m currently learning **Android app development in Kotlin,AWS**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="500" src="![image](https://github.com/ANIKETH232323/ANIKETH232323/assets/102458123/45f12054-468f-460c-bafa-f0b67d693863)">
+<img align="right" alt="Coding" width="500" src="![image](https://github.com/ANIKETH232323/ANIKETH232323/assets/102458123/c361ed9f-117f-450d-a233-13d275938398)">
 <p align="left">
 <a href="https://twitter.com/aniketh232001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketh232001" height="30" width="40" /></a>
 </p>
