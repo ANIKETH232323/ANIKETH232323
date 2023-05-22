@@ -2,7 +2,7 @@
 <h1 align="center"> Hi,<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> I'm ANIKETH</h1>
 <h3 align="center">A beginner frontend and backend developer from India</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketh232323&label=Profile%20views&color=0e75b6&style=flat" alt="aniketh232323" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketh232323&label=Profile%20views&color=ef4444&style=flat" alt="aniketh232323" /> </p>
 
 <h2> 🌐 Socials:</h2>
 <p align="left"> <a href="https://twitter.com/aniketh232001" target="blank"><img src="https://img.shields.io/twitter/follow/aniketh232001?logo=twitter&style=for-the-badge" alt="aniketh232001" /></a> </p>
