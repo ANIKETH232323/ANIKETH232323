@@ -7,7 +7,7 @@
 <h2> 🌐 Socials:</h2>
 <p align="left"> <a href="https://twitter.com/aniketh232001" target="blank"><img src="https://img.shields.io/twitter/follow/aniketh232001?logo=twitter&style=for-the-badge" alt="aniketh232001" /></a> </p>
 
-- 🌱 I’m currently learning **Android app development in Kotlin with Jetpack Composr,AWS**
+- 🌱 I’m currently learning **Android app development in Kotlin with Jetpack Composr and AWS**
 
 <img align="right" alt="Coding" width="280" src="giphy.webp">
 <hr>
