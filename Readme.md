@@ -89,5 +89,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANIKETH232323&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ANIKETH232323&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ANIKETH232323&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANIKETH232323&theme=algolia)
 
 
