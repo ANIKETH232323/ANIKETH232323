@@ -1,5 +1,5 @@
 
-<img src="github-header-image.png"/>
+<img  align ="center" src="github-header-image.png"/>
 
 # 💫 About Me:
 🔭 I’m currently studying Computer Science Engineering<br>🌱 I’m currently learning Kotlin in Android Studio and AWS<br>
