@@ -61,6 +61,9 @@
 <img  src ="github-header-image.png"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketh232323&label=Profile%20views&color=ef4444&style=flat" alt="aniketh232323" /> </p>
 
+<img align="right"  alr="coding" width="500" height="300" src="https://th.bing.com/th/id/OIP.N5mV7Voue1wvHbwV3Ep1DQHaD_?pid=ImgDet&rs=1"></img>
+
+
 # 💫 About Me:
 🔭 I’m currently studying Computer Science Engineering<br>🌱 I’m currently learning Kotlin in Android Studio and AWS<br>
 
