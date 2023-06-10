@@ -61,7 +61,7 @@
 <img  src ="github-header-image.png"/>
 <p > <img src="https://komarev.com/ghpvc/?username=aniketh232323&label=Profile%20views&color=ef4444&style=flat" alt="aniketh232323" /> </p>
 
-<img align="right"  alr="coding" width="500" height="350" src="OIP.jpg"></img>
+<!-- <img align="right"  alr="coding" width="500" height="350" src="OIP.jpg"></img> -->
 
 
 # 💫 About Me:
