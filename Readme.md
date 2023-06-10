@@ -58,7 +58,7 @@
 
 <!-- ---
 [![](https://visitcount.itsvg.in/api?id=ANIKETH232323&icon=0&color=4)](https://visitcount.itsvg.in) -->
-
+<img  src ="github-header-image.png"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketh232323&label=Profile%20views&color=ef4444&style=flat" alt="aniketh232323" /> </p>
 
 # 💫 About Me:
