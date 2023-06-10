@@ -85,3 +85,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ANIKETH232323&theme=dark&combine_all_yearly_contributions=true)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANIKETH232323&theme=algolia)
+
