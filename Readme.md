@@ -92,3 +92,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ANIKETH232323&theme=algolia)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ANIKETH232323&theme=discord&no-frame=false&no-bg=false&margin-w=4)
