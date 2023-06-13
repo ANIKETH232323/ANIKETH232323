@@ -3,7 +3,6 @@
 # 💫 About Me:
 🔭 I’m currently studying Computer Science Engineering<br>🌱 I’m currently learning Kotlin in Android Studio and AWS<br>
 
-
 ## 🌐 Socials:
 <p align="left"> <a href="https://twitter.com/aniketh232001" target="blank"><img src="https://img.shields.io/twitter/follow/aniketh232001?logo=twitter&style=for-the-badge" alt="aniketh232001" /></a> </p>
 
