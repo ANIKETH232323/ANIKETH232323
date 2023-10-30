@@ -14,13 +14,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 # 📊 GitHub Stats:
-<a  href="http://www.github.com/Aniketh232323"  ><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aniketh232323&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Aniketh232323's GitHub stats" /></a>
-
+<a  href="http://www.github.com/Aniketh232323"  ><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aniketh232323&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="Aniketh232323's GitHub stats" />
+</a><br/><br/>
 
 <a href="http://www.github.com/Aniketh232323"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aniketh232323&stroke=ef4444&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a><br/><br/>
 <a href="https://github.com/Aniketh232323" ><img   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aniketh232323&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANIKETH232323&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ANIKETH232323&theme=algolia)
